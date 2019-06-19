@@ -1,5 +1,5 @@
-api_key = "2ce4c9c7-fdbe-4426-abcc-7bd94cf36fb5"
-device_id = "BOLT7487076"
+api_key = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+device_id = "BOLTxxxxxxx"
 Threshold = 500
 from boltiot import Bolt
 import json, time
